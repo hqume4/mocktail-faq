@@ -114,7 +114,7 @@ Put a JSON object in `$XDG_CONFIG_HOME/mocktail/fflags.json` (usually
 ```
 ## FAQ
 
-To see the most Frequently Asked Question go check [FAQ.md](FAQ.MD)
+To see the most Frequently Asked Question go check [FAQ.md](FAQ.md)
 
 
 ## Building
