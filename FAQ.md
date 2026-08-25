@@ -2,7 +2,7 @@
 
 [¿How do I change my FPS?](/FAQ.md#how-do-i-change-my-fps)
 
-### ¿How do I change my FPS?
+### How do I change my FPS?
 
 
 Go to $HOME/.config/mocktail, there is a file called config.yaml (appears after opening for the first time mocktail)
