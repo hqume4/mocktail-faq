@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-[¿How do I change my FPS?](/FAQ#how-do-i-change-my-fps)
+[¿How do I change my FPS?](/FAQ.md#how-do-i-change-my-fps)
 
 ### ¿How do I change my FPS?
 
